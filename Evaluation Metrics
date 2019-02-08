@@ -1,0 +1,38 @@
+# Evaluation Metrics
+
+## Confussion matrix
+
+It's a matrix with four values that you can use to verify a model
+
+![image-20190124105300428](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190124105300428.png)
+
+
+
+![image-20190124105639922](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190124105639922.png)
+
+![image-20190124111222236](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190124111222236.png)
+
+![image-20190124111129168](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190124111129168.png)
+
+
+
+# Accuracy
+
+![image-20190205092602492](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190205092602492.png)
+
+To calculate the accuracy on Sklearn we can use the command
+
+```from sklearn.metrics import accuracy_score accuracy_score(y_true, y_pred)```
+
+![image-20190205093155501](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190205093155501.png)
+
+
+
+# Precision
+
+![image-20190205093932968](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190205093932968.png)
+
+
+
+![image-20190205094046802](/Users/denniszelada/Library/Application Support/typora-user-images/image-20190205094046802.png)
+
